@@ -10,6 +10,5 @@ public class VerificadorVetor{
             System.out.print(vetor[i] + ",");    
         }
         System.out.print(vetor[vetor.length - 1]);    
-        
     }
 }
